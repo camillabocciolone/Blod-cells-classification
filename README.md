@@ -36,5 +36,5 @@ After cleaning duplicated and mislabeled images, the final dataset contains 11,9
 ## Authors
 
 Camilla Bocciolone, Davide Fileccia, Luca Forte, Matilde Simonetti  
-Team: *Natural Stupidity* – AN2DL Homework 1
+
 
